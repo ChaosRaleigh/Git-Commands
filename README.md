@@ -59,4 +59,6 @@
     git remote add origin url
 
 8) Use git push in the future (-u means upstream)
-    git push -u origin master
+    git push -u origin master 
+
+9) Example
