@@ -19,7 +19,7 @@
 6) Commiting a file
     git commit -m "Added index.html" -m "Enter description here"
 
-7) SSH 
+7) SSH (***Make sure to be in here bunao@DESKTOP-DE4FK5O MINGW64 by typing cd***)
     ssh-keygen -t rsa -b 4096 -C "bunao.peterandrei@gmail.com"
     Enter keyname: testkey
 
